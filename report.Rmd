@@ -1,0 +1,14 @@
+---
+title: "Week 10 tutorial"
+author: "Zola Bat"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2
+---
+
+
+```{r libararies, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
